@@ -513,7 +513,8 @@ textarea {
 .baby__title {
   font-size: 1.4rem;
   font-weight: 700;
-  margin-bottom: 2rem;
+  padding-top: 6rem;
+  margin-bottom: 1rem;
   color: var(--color-primary-dark);
 }
 
