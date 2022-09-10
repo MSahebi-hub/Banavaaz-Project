@@ -704,6 +704,7 @@ textarea {
 
 .company img {
   max-width: 100%;
+  padding-bottom: 3rem;
 }
 
 .company__text h2 {
