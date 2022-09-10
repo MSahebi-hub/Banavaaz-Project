@@ -709,6 +709,7 @@ textarea {
 .company__text h2 {
   font-size: 2rem;
   word-spacing: 3px;
+  padding-top: 3rem;
   padding-right: 2rem;
   color: var(--color-primary-dark);
 }
