@@ -260,7 +260,7 @@ textarea {
 
 @media screen and (min-width: 1024px) {
   .main-header {
-    background-color: transparent;
+    background: linear-gradient(243.02deg, #10a9da -9.92%, #92e5ff 106.28%);
   }
   .nav {
     justify-content: space-between;
