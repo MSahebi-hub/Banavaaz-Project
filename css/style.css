@@ -709,12 +709,14 @@ textarea {
 .company__text h2 {
   font-size: 2rem;
   word-spacing: 3px;
+  padding-right: 2rem;
   color: var(--color-primary-dark);
 }
 
 .company__text p {
   font-size: 1.8rem;
   font-weight: 500;
+  padding: 0 2rem;
   word-spacing: 2px;
   color: #474747;
   margin-bottom: 3rem;
