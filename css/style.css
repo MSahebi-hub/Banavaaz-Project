@@ -106,7 +106,7 @@ textarea {
   border-radius: 15px;
   margin: 1rem 0;
   text-align: center;
-  white-space: nowrap;
+  word-spacing: 3px;
   background-color: var(--color-primary);
   color: var(--color-secondary-fonts);
   box-shadow: 0px 22px 40px rgba(0, 0, 0, 0.1);
