@@ -664,7 +664,7 @@ textarea {
 @media screen and (min-width: 1024px) {
   .feature {
     height: 550px;
-    padding: 3rem 8rem;
+    padding: 3rem 9rem;
     background-color: #7edcf9;
   }
   .feature h2 {
@@ -680,12 +680,18 @@ textarea {
     gap: 3rem;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
+  .feature__item:hover {
+    transform: scale(1.06);
+    transition: all 0.3s ease-out;
+    box-shadow: 0px 22px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+  }
   .feature__item img {
     border-radius: 15px;
   }
   .feature__item p {
     width: 250px;
-    height: 223px;
+    height: 123px;
     word-spacing: 2px;
     padding-top: 1rem;
     padding-right: 1rem;
