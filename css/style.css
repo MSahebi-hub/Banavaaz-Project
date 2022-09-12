@@ -664,19 +664,19 @@ textarea {
 @media screen and (min-width: 1024px) {
   .feature {
     height: 550px;
-    padding: 3rem 5rem;
+    padding: 3rem 8rem;
     background-color: #7edcf9;
   }
   .feature h2 {
     word-spacing: 5px;
     margin-bottom: 5rem;
-    padding-right: 2.7rem;
+    padding-right: 4.7rem;
     text-align: right;
     font-size: 5rem;
     color: var(--color-secondary-fonts);
   }
   .feature--items {
-    margin: 0 3rem;
+    margin: 0 5rem;
     gap: 3rem;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
@@ -684,7 +684,7 @@ textarea {
     border-radius: 15px;
   }
   .feature__item p {
-    width: 270px;
+    width: 250px;
     height: 223px;
     word-spacing: 2px;
     padding-top: 1rem;
