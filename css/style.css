@@ -607,6 +607,7 @@ textarea {
     width: 230px;
   }
   .app__text {
+    padding-right: 5rem;
     margin-top: 5rem;
   }
   .app__title {
@@ -622,7 +623,7 @@ textarea {
   .app__btn {
     font-size: 2rem;
     margin-top: 4rem;
-    padding: 0.5rem 3rem;
+    padding: 0.3rem 2rem;
     border: 3px solid var(--color-primary-dark);
     border-radius: 15px;
   }
