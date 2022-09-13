@@ -354,7 +354,6 @@ textarea {
   width: 70%;
   height: auto;
   margin: auto;
-  /* margin-bottom: 3rem; */
 }
 
 .hero__image {
@@ -387,6 +386,7 @@ textarea {
   }
   .hero__detail {
     order: 1;
+    padding-top: 3rem;
   }
   .hero__title {
     width: 758px;
@@ -423,8 +423,6 @@ textarea {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  padding-top: 7rem;
-  padding-bottom: 4rem;
 }
 
 .services__item p {
@@ -441,6 +439,10 @@ textarea {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+  }
+  .services__item {
+    padding-top: 7rem;
+    padding-bottom: 4rem;
   }
 }
 
@@ -513,7 +515,6 @@ textarea {
 .baby__title {
   font-size: 1.4rem;
   font-weight: 700;
-
   margin-bottom: 1rem;
   color: var(--color-primary-dark);
 }
