@@ -83,6 +83,17 @@ textarea {
     font-size: 1.8rem;
     background: linear-gradient(243.02deg, #10a9da -9.92%, #92e5ff 106.28%);
   }
+  body::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 10px;
+  }
+  body::-webkit-scrollbar-track {
+    background-color: #67e8f9;
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #0369a1;
+    border-radius: 10px;
+  }
   h1 {
     font-size: 5rem;
   }
